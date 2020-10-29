@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 👋 Sultan Emaish - @SultanEm
+Hey, I'm Lukas. I am a 3nd-year student at Universidade Federal do Rio de Janeiro(UFRJ) and currently enrolled in Electrical Engineering.
 <!--
 **lukasmuller10/lukasmuller10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

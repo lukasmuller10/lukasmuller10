@@ -15,6 +15,12 @@ Hey, I'm Lukas. I am a 3nd-year student at Universidade Federal do Rio de Janeir
 📫 How to reach me
 
 Feel free to reach out via e-mail lukasmullerdeoliveira@gmail.com or on [Linkedin](https://www.linkedin.com/in/lukas-m%C3%BCller-de-oliveira-437b08189/?locale=pt_BR)!
+<ul>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ul> 
 <!--
 **lukasmuller10/lukasmuller10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

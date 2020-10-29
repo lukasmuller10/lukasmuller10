@@ -3,14 +3,14 @@ Hey, I'm Lukas. I am a 3nd-year student at Universidade Federal do Rio de Janeir
 
 🔭 What I'm working on ...
 
-    -Developing Liteboard.io, an open-source online lecturing experience, that allows users to quickly set up a classroom with State-of-the-Art drawing tools and webcam/audio broadcasts
-    -Developing an image classificator using CNN to diagnose tuberculosis.
-    -Looking for a internship
+    - Developing Liteboard.io, an open-source online lecturing experience, that allows users to quickly set up a classroom with State-of-the-Art drawing tools and webcam/audio broadcasts
+    - Developing an image classificator using CNN to diagnose tuberculosis.
+    - Looking for a internship
 
 🌱 What I'm learning ...
 
-    -Machine Learning using Keras and PyTorch
-    -NodeJS and React to develop MERN apps
+    - Machine Learning using Keras and PyTorch
+    - NodeJS and React to develop MERN apps
 
 📫 How to reach me
 

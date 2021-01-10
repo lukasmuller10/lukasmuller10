@@ -3,10 +3,10 @@ Hey, I'm Lukas. I am a 3nd-year student at Universidade Federal do Rio de Janeir
 
 🔭 What I'm working on ...
       <ul>
-        <li>Working as a data engineer intern at [JGP](https://www.jgp.com.br/) at macroeconomy and credit areas.(COMING SOON)</li>
+        <li>Working as a data engineer intern at [JGP](https://www.jgp.com.br/) at macroeconomy and credit areas.</li>
         <li>Developing Liteboard.io, an open-source online lecturing experience, that allows users to quickly set up a classroom with State-of-the-Art drawing tools and webcam/audio broadcasts
         </li>
-        <li>Developing an image classificator using CNN to diagnose tuberculosis.</li>
+        <li>Developing an image classificator using CNN to diagnose tuberculosis using x-ray images at [LPS (Signal Processing Laboratory)](https://www.lps.ufrj.br/).</li>
       </ul> 
 
 🌱 What I'm learning ...
@@ -17,7 +17,7 @@ Hey, I'm Lukas. I am a 3nd-year student at Universidade Federal do Rio de Janeir
 
 📫 How to reach me
 
-Feel free to reach out via e-mail lukasmullerdeoliveira@poli.ufrj.br or on [Linkedin](https://www.linkedin.com/in/lukas-m%C3%BCller-de-oliveira-437b08189/?locale=en_US)!
+Feel free to reach out via e-mail lukasmullerdeoliveira@poli.ufrj.br or on [Linkedin](https://www.linkedin.com/in/lmuller-ufrj/)!
 
 <!--
 **lukasmuller10/lukasmuller10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

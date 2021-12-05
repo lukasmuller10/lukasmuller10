@@ -3,7 +3,7 @@ Hey, I'm Lukas. I am a 3nd-year student at Universidade Federal do Rio de Janeir
 
 🔭 What I'm working on ...
       <ul>
-        <li>Working as a Treasury Analyst at [XP Inc.](https://www.xpi.com.br/) at macroeconomy and credit areas.</li>
+        <li>Working as a Treasury Analyst at [XP Inc.](https://www.xpi.com.br/).</li>
         <li>Working as a geometry Teacher of high school classes in a social project</li>
       </ul> 
 

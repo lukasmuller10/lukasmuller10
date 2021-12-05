@@ -3,16 +3,14 @@ Hey, I'm Lukas. I am a 3nd-year student at Universidade Federal do Rio de Janeir
 
 🔭 What I'm working on ...
       <ul>
-        <li>Working as a data engineer intern at [JGP](https://www.jgp.com.br/) at macroeconomy and credit areas.</li>
-        <li>Developing [Liteboard.io](liteboard.io), an open-source online lecturing experience, that allows users to quickly set up a classroom with State-of-the-Art drawing tools and webcam/audio broadcasts
-        </li>
-        <li>Developing an image classificator using CNN to diagnose tuberculosis using x-ray images at [LPS (Signal Processing Laboratory)](https://www.lps.ufrj.br/).</li>
+        <li>Working as a Treasury Analyst at [XP Inc.](https://www.xpi.com.br/) at macroeconomy and credit areas.</li>
+        <li>Working as a geometry Teacher of high school classes in a social project</li>
       </ul> 
 
 🌱 What I'm learning ...
       <ul>
-        <li>Machine Learning using Keras and PyTorch.</li>
-        <li>NodeJS and React to develop MERN apps.</li>
+        <li>Stock option pricing</li>
+        <li>Swaps pricing</li>
       </ul> 
 
 📫 How to reach me

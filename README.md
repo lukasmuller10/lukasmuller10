@@ -1,5 +1,5 @@
 ## 👋 Lukas Müller - @lukasmuller10
-Hey, I'm Lukas. I am a 3nd-year student at Universidade Federal do Rio de Janeiro(UFRJ) and currently enrolled in Electrical Engineering.
+Hey, I'm Lukas. I am a 4th-year student at Universidade Federal do Rio de Janeiro(UFRJ) and currently enrolled in Electrical Engineering.
 
 🔭 What I'm working on ...
       <ul>
